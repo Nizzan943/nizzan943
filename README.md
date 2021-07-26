@@ -49,7 +49,7 @@
 [<img align="left" alt="nizzan943 | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
 
 
-[linkedin]: https://www.linkedin.com/in/nizzan943/
+[linkedin]: https://www.linkedin.com/in/nitzan-miranda-026955168/
 [gmail]: mailto:nizzan943@gmail.com
 
 
