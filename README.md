@@ -6,7 +6,9 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 💼 I'm a Full Stack developer at MarlinAIO.
+- 💼 I'm a Backend Engineer at SaleFreaks.
+
+- In live with C#, .NET Core and SOLID principles ♥️
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
