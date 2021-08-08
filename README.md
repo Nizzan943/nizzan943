@@ -22,8 +22,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - 🛢  &nbsp;
-  &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
-  ![PostgreSQL](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=postgresql)
+  &nbsp;![SQLServer](https://img.shields.io/badge/-Sql Server-333333?style=flat&logo=microsoft-sql-server)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - ⚙️ &nbsp;
