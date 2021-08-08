@@ -8,7 +8,7 @@
 
 - 💼 I'm a Backend Engineer at SaleFreaks.
 
-- In live with C#, .NET Core and SOLID principles ♥️
+- In love with C#, .NET technology and SOLID principles ♥️
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
