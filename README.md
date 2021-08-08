@@ -15,30 +15,24 @@
 <hr />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🎨 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=1a73e8)
 - 🧰 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=1a73e8)
   ![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=6d4a80)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![.NET](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.NET)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
 
 - 🛢  &nbsp;
   &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
+  ![PostgreSQL](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - ⚙️ &nbsp;
-  ![.NETCore](https://img.shields.io/badge/-.NET_Core-333333?style=flat)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p>
   <div class="github-stats">
