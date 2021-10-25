@@ -6,7 +6,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 💼 I'm a Backend Engineer at SaleFreaks.
+- 💼 I'm a Backend Engineer at Bagira Systems. 🐾
 
 - In love with C#, .NET technology and SOLID principles ♥️
   
