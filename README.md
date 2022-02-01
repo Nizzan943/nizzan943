@@ -1,4 +1,4 @@
-### Hi! 👋, I'm [Nitzan Miranda](https://github.com/nizzan943) 👨‍💻
+### Hi! 👋, I'm [Nitzan Miranda](https://www.linkedin.com/in/nitzan-miranda-026955168/) 👨‍💻
 
 <img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 <br />
@@ -41,8 +41,8 @@
 </p>
 
 ### 📝 Contact Me 
-[<img align="left" alt="nizzan943 | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
-[<img align="left" alt="nizzan943 | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
+[<img align="left" alt="nizzan943 | LinkedIn" height="40px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
+[<img align="left" alt="nizzan943 | Gmail" height="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-gmail-is-a-free-email-service-developed-by-google-logo-filled-tal-revivo.png"/>][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/nitzan-miranda-026955168/
