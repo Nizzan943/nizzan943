@@ -18,7 +18,6 @@
 - 🧰 &nbsp;
   ![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=6d4a80)
   ![.NET](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.NET)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - 🛢  &nbsp;
