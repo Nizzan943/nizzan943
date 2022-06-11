@@ -1,8 +1,10 @@
-### Hi! 👋, I'm [Nitzan Miranda](https://www.linkedin.com/in/nitzan-miranda-026955168/) 👨‍💻
+<div align=left>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=200&height=50&lines=Hi+there+%F0%9F%91%8B" alt="Headline" />
+    </div>
 
+### I'm [Nitzan Miranda](https://www.linkedin.com/in/nitzan-miranda-026955168/) 👨‍💻
 <img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 <br />
-
 
 <h3> 💻 &nbsp;About Me </h3>
 
