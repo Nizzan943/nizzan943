@@ -20,7 +20,6 @@
 - 🧰 &nbsp;
   ![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=6d4a80)
   ![.NET](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.NET)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - 🛢  &nbsp;
   &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
@@ -32,7 +31,6 @@
 
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p>
   <div class="github-stats">
