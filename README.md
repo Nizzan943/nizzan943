@@ -10,7 +10,7 @@
 
 - 💼 I'm a Backend Engineer at Bagira Systems. 🐾
 
-- In love with C#, .NET technology and SOLID principles ♥️
+- ♥️ In love with C#, .NET technology and SOLID principles 
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
