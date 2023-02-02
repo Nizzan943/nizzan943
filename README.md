@@ -38,7 +38,7 @@
   </div>
 </p>
 
-Your are the [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nizzan943.visitor-badge)](https://github.com/nizzan943) since i added this profile <br>
+- Your are the [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nizzan943.visitor-badge)](https://github.com/nizzan943) since i added this profile <br>
 
 
 ### 📝 Contact Me 
