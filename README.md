@@ -38,12 +38,12 @@
   </div>
 </p>
 
+Your are the [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nizzan943.visitor-badge)](https://github.com/nizzan943) since i added this profile <br>
+
+
 ### 📝 Contact Me 
 [<img align="left" alt="nizzan943 | LinkedIn" height="40px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
 [<img align="left" alt="nizzan943 | Gmail" height="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-gmail-is-a-free-email-service-developed-by-google-logo-filled-tal-revivo.png"/>][gmail]
-
-Your are the [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nizzan943.visitor-badge)](https://github.com/nizzan943) since i added this profile <br>
-
 
 [linkedin]: https://www.linkedin.com/in/nitzan-miranda-026955168/
 [gmail]: mailto:nizzan943@gmail.com
