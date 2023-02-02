@@ -45,6 +45,6 @@
 
 [linkedin]: https://www.linkedin.com/in/nitzan-miranda-026955168/
 [gmail]: mailto:nizzan943@gmail.com
-
+<p>
 Your are the [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nizzan943.visitor-badge)](https://github.com/nizzan943) since i added this profile <br>
-
+<p/>
