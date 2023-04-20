@@ -4,7 +4,7 @@
 
 ### I'm [Nitzan Miranda](https://www.linkedin.com/in/nitzan-miranda-026955168/) 👨‍💻
 <a href="https://app.daily.dev/nizzan943">
-<img align="right" alt="Nitzan Miranda's Dev Card" height="250px" src="https://api.daily.dev/devcards/4243f1c212d04f90b7d733181e5297d7.png?r=1ii">
+<img align="right" alt="Nitzan Miranda's Dev Card" width="250" src="https://api.daily.dev/devcards/4243f1c212d04f90b7d733181e5297d7.png?r=1ii">
 <br />
 
 <h3> 💻 &nbsp;About Me </h3>
